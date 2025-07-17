@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>0</order>
+        <published_ref/>
+        <question display_value="Where would you like to pick up this item?">0780b2e19f3222107f44111a3524ab9c</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-17 18:24:54</sys_created_on>
+        <sys_id>5f80b2e19f3222107f44111a3524aba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New York</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">eaab14139f6222107f44111a3524abd5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">eaab14139f6222107f44111a3524abd5</sys_scope>
+        <sys_update_name>question_choice_5f80b2e19f3222107f44111a3524aba9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-17 18:24:54</sys_updated_on>
+        <text>New York</text>
+        <value>ny</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=5f80b2e19f3222107f44111a3524aba9"/>
+</record_update>
